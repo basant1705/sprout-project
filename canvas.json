@@ -1,0 +1,104 @@
+{
+ "v": 3,
+ "createdOnFiles": {
+  "v": 1,
+  "at": "2026-10-17T12:00:00Z"
+ },
+ "title": "Sprout2_Design",
+ "launch": {
+  "view": "canvas"
+ },
+ "pages": [],
+ "boards": {
+  "Brand.dc.html": {
+   "x": 0,
+   "y": 0,
+   "w": 1200,
+   "h": 720,
+   "title": "Brand sheet"
+  },
+  "Home-mobile.dc.html": {
+   "x": 0,
+   "y": 1000,
+   "w": 390,
+   "h": 1480,
+   "title": "Homepage mobile"
+  },
+  "Home-desktop.dc.html": {
+   "x": 0,
+   "y": 2800,
+   "w": 1440,
+   "h": 1180,
+   "title": "Homepage desktop"
+  },
+  "Onb1.dc.html": {
+   "x": 470,
+   "y": 1000,
+   "w": 390,
+   "h": 844,
+   "title": "Onboarding 1"
+  },
+  "Onb2.dc.html": {
+   "x": 940,
+   "y": 1000,
+   "w": 390,
+   "h": 844,
+   "title": "Onboarding 2"
+  },
+  "Onb3.dc.html": {
+   "x": 1410,
+   "y": 1000,
+   "w": 390,
+   "h": 844,
+   "title": "Onboarding 3"
+  },
+  "Onb4.dc.html": {
+   "x": 1880,
+   "y": 1000,
+   "w": 390,
+   "h": 844,
+   "title": "Onboarding 4"
+  },
+  "Onb5.dc.html": {
+   "x": 2350,
+   "y": 1000,
+   "w": 390,
+   "h": 844,
+   "title": "Onboarding 5"
+  }
+ },
+ "order": [
+  "Brand.dc.html",
+  "Home-mobile.dc.html",
+  "Home-desktop.dc.html",
+  "Onb1.dc.html",
+  "Onb2.dc.html",
+  "Onb3.dc.html",
+  "Onb4.dc.html",
+  "Onb5.dc.html"
+ ],
+ "notes": {
+  "n1": {
+   "x": 0,
+   "y": -260,
+   "text": "Brand: mascot, colour, type",
+   "kind": "title1",
+   "maxW": 1200
+  },
+  "n2": {
+   "x": 0,
+   "y": 740,
+   "text": "Mobile: homepage to onboarding 1-5",
+   "kind": "title1",
+   "maxW": 2800
+  },
+  "n3": {
+   "x": 0,
+   "y": 2540,
+   "text": "Desktop homepage",
+   "kind": "title1",
+   "maxW": 1440
+  }
+ },
+ "designSystems": []
+}
